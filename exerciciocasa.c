@@ -12,7 +12,7 @@ int main(){
     printf("O valor de a = %d", a);
     printf("O valor de b = %c", b);
 
-
+ 
     return 0;
 }
     O valor de a = 1O valor de b = 6O valor de a = 65O valor de b = b
